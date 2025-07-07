@@ -4,7 +4,7 @@
 "
 
 " Vundle
-set rtp+=/home/oscar/.nvim/bundle/Vundle.vim
+set rtp+=/home/oscar/.config/nvim/bundle/Vundle.vim
 call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
  " *Definition of plugins
